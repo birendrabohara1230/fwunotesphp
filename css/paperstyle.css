@@ -1,0 +1,57 @@
+#paper-container {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+#paper-container p,
+h5 {
+  margin: 0;
+  padding: 0;
+}
+
+#paper-fourth-sem a{
+  text-decoration: none;
+  color: black;
+}
+
+#paper-fourth-sem a:hover {
+  color: blue;
+}
+
+#paper-model {
+  margin-right: 20px;
+  margin-left: 20px;
+  border-radius: 20px;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3) !important;
+}
+
+#paper-year {
+  margin-bottom: 10px;
+  color: black;
+  margin-left: 93px;
+}
+
+#paper-year button {
+  border: 2px solid blue;
+  font-size: 10px;
+  margin-bottom: 5px;
+}
+
+.paper-year-style {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+
+
+.costume-shadow{
+  border-radius: 20px;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+  0.3em 0.3em 1em rgba(0, 0, 0, 0.3) !important;
+}
+
+#footer-section-2{
+  border-radius: 10px;
+  margin: 4px 2px;
+}
